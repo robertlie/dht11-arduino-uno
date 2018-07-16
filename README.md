@@ -9,7 +9,7 @@ All hardware requirements and how the Arduino IDE is prepared is explained at:
 
 [1]: https://www.mobilefish.com/developer/iota/iota_quickguide_arduino_mam.html "Mobilefish.com"
 
-![alt text](https://www.mobilefish.com/images/developer/arduino_uno_dht11.png "DHT11 sensor connected to Arduino Uno")
+![alt text](https://www.mobilefish.com/images/developer/arduino_uno_dht11.jpg "DHT11 sensor connected to Arduino Uno")
 
 ## Features
 
