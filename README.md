@@ -8,6 +8,7 @@ All hardware requirements and how the Arduino IDE is prepared is explained at:
 [https://www.mobilefish.com/developer/iota/iota_quickguide_arduino_mam.html][1]
 
 [1]: https://www.mobilefish.com/developer/iota/iota_quickguide_arduino_mam.html "Mobilefish.com"
+[2]: https://youtu.be/T2b5WZDfg3c "YouTube video"
 
 ![alt text](https://www.mobilefish.com/images/developer/arduino_uno_dht11.jpg "DHT11 sensor connected to Arduino Uno")
 
@@ -29,3 +30,6 @@ npm install
 
 How to use the scripts see:  
 [https://www.mobilefish.com/developer/iota/iota_quickguide_arduino_mam.html][1]
+
+or watch this YouTube video:
+[https://youtu.be/T2b5WZDfg3c][2]
