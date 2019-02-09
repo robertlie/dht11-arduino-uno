@@ -6,12 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["DHT11", "sensor", "IOTA", "Tangle", "Masked Authenticated Messaging", "MAM", "Arduino Uno"],
+  "keywords": [
+    "DHT11",
+    "sensor",
+    "IOTA",
+    "Tangle",
+    "Masked Authenticated Messaging",
+    "MAM",
+    "Arduino Uno"
+  ],
   "homepage": "https://www.mobilefish.com/developer/iota/iota_quickguide_arduino_mam.html",
   "author": "Robert Lie",
   "license": "MIT",
   "dependencies": {
     "iota.lib.js": "^0.4.7",
+    "lodash": "^4.17.11",
     "moment": "^2.22.2",
     "serialport": "^6.2.1"
   }
